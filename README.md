@@ -6,6 +6,8 @@ Based on the [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http
 
 Modified to include information about our hack [SmartCan](http://pennapps2015w.challengepost.com/submissions/31452-smartcan)
 
+Live link: [TrashCan.io](http://trashcan.io)
+
 
 ## Credits
 
